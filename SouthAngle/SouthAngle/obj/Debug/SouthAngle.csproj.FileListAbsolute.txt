@@ -1,0 +1,21 @@
+c:\users\kamran yaseen\documents\visual studio 2012\Projects\SouthAngle\SouthAngle\bin\Debug\SouthAngle.exe.config
+c:\users\kamran yaseen\documents\visual studio 2012\Projects\SouthAngle\SouthAngle\bin\Debug\SouthAngle.exe
+c:\users\kamran yaseen\documents\visual studio 2012\Projects\SouthAngle\SouthAngle\bin\Debug\SouthAngle.pdb
+c:\users\kamran yaseen\documents\visual studio 2012\Projects\SouthAngle\SouthAngle\obj\Debug\SouthAngle.csprojResolveAssemblyReference.cache
+c:\users\kamran yaseen\documents\visual studio 2012\Projects\SouthAngle\SouthAngle\obj\Debug\SouthAngle.frmEmployeeDetails.resources
+c:\users\kamran yaseen\documents\visual studio 2012\Projects\SouthAngle\SouthAngle\obj\Debug\SouthAngle.Properties.Resources.resources
+c:\users\kamran yaseen\documents\visual studio 2012\Projects\SouthAngle\SouthAngle\obj\Debug\SouthAngle.csproj.GenerateResource.Cache
+c:\users\kamran yaseen\documents\visual studio 2012\Projects\SouthAngle\SouthAngle\obj\Debug\SouthAngle.exe
+c:\users\kamran yaseen\documents\visual studio 2012\Projects\SouthAngle\SouthAngle\obj\Debug\SouthAngle.pdb
+I:\SouthAngle\SouthAngle\bin\Debug\SouthAngle.exe.config
+I:\SouthAngle\SouthAngle\obj\Debug\SouthAngle.exe
+I:\SouthAngle\SouthAngle\obj\Debug\SouthAngle.pdb
+I:\SouthAngle\SouthAngle\bin\Debug\SouthAngle.exe
+I:\SouthAngle\SouthAngle\bin\Debug\SouthAngle.pdb
+I:\SouthAngle\SouthAngle\obj\Debug\SouthAngle.csprojResolveAssemblyReference.cache
+I:\SouthAngle\SouthAngle\obj\Debug\SouthAngle.frmEmployeeDetails.resources
+I:\SouthAngle\SouthAngle\obj\Debug\SouthAngle.Properties.Resources.resources
+I:\SouthAngle\SouthAngle\obj\Debug\SouthAngle.csproj.GenerateResource.Cache
+F:\CBT\HDSE\Aptech MYHDSE Data\WinForms\For Session 10 (Data Binding)\Binding Source\SouthAngle\SouthAngle\bin\Debug\SouthAngle.exe.config
+F:\CBT\HDSE\Aptech MYHDSE Data\WinForms\For Session 10 (Data Binding)\Binding Source\SouthAngle\SouthAngle\obj\Debug\SouthAngle.exe
+F:\CBT\HDSE\Aptech MYHDSE Data\WinForms\For Session 10 (Data Binding)\Binding Source\SouthAngle\SouthAngle\obj\Debug\SouthAngle.pdb
